@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JonesSpencer_CE03</string>
+    <string name="titleText">Letter Counter</string>
+    <string name="addWordText">Enter a word to add</string>
+    <string name="addButton">Add</string>
+    <string name="viewButton">View</string>
+    <string name="avgWordCountView">Average Word Count: 0</string>
+    <string name="medWordCountView">Median Word Count: 0</string>
+</resources>
